@@ -1,7 +1,13 @@
 # Configuring bots
 
-For all bots developed here, you must fill out fields `USERNAME`, `PASSWORD`, `CLIENT_ID`, and `CLIENT_SECRET`. To get the `CLIENT_ID` and `CLIENT_SECRET` settings, go [here](https://www.reddit.com/prefs/apps/) with your bot account and fill it out like [so](http://i.imgur.com/a9vK6iQ.jpg).
+For all bots developed here, you must fill out fields `USERNAME`, `PASSWORD`, `CLIENT_ID`, and `CLIENT_SECRET`.
 
+####To get the `CLIENT_ID` and `CLIENT_SECRET` settings:
+1. Go [here](https://www.reddit.com/prefs/apps/)
+
+2. Fill it out like [this](http://i.imgur.com/a9vK6iQ.jpg).
+
+3. The values should then appear like [this](https://i.imgur.com/qugkV2e.png).
 
 # Bot coding practices
 
